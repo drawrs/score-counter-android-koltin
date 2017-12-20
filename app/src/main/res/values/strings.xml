@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="start_match">START MATCH</string>
+    <string name="hint_team_a">Team A Name</string>
+    <string name="nama_tim_b">Nama Tim B</string>
+</resources>

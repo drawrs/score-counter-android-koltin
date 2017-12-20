@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Dec 17 16:11:25 WIB 2017
+0.baseType=DIRECTORY
+0.base=/home/khilman/Documents/iakcirebon/IAKCirebon2017/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1
